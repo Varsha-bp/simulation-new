@@ -1,0 +1,16 @@
+{
+  "deviceID": "D1",
+  "deviceType": "Fan",
+  "timestamp": 1621555200000,
+  "location": {
+    "country": "Japan",
+    "city": "Tokyo",
+    "area": "Ogaki",
+    "factory": "A",
+    "section": 1
+  },
+  "data": {
+    "status": "healthy",
+    "temperature": 23
+  }
+}
